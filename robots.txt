@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kkhaaaaaii.github.io/sitemap.xml
